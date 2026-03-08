@@ -1,9 +1,9 @@
 export const siteDetails = {
-    siteName: 'Finwise',
-    siteUrl: 'https://finwise-omega.vercel.app/',
+    siteName: 'Arctis Scripts',
+    siteUrl: 'https://arctis-scripts.com/',
     metadata: {
-        title: 'Finwise - Next.js and Tailwind CSS Landing Page Template',
-        description: 'Finwise empowers businesses with cutting-edge technology solutions to drive success and efficiency.',
+        title: 'Arctis Scripts | High quality FiveM resources',
+        description: 'Modern, optimized and fully documented FiveM resources for serious servers.',
     },
     language: 'en-us',
     locale: 'en-US',

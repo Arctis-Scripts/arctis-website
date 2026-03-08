@@ -1,5 +1,5 @@
 export const heroDetails = {
-    heading: 'Smart, Secure, Simple Financial Management',
-    subheading: 'From effortless budgeting to real-time investment insights, Finwise puts you in control of your money like never before',
+    heading: 'High quality FiveM resources built for modern servers',
+    subheading: 'Arctis Scripts delivers clean, optimized and fully documented resources for modern FiveM communities.',
     centerImageSrc: '/images/hero-mockup.webp',
 }
